@@ -26,12 +26,10 @@ The interface was designed and refined using Figma before being implemented as a
 - **Scheduled Rides:** Interface for planning rides in advance.
 
 ## Tech Stack
-- HTML5
-- CSS3
-- JavaScript
-- Leaflet.js
-- Esri World Street Map tiles
-- GitHub Pages (Deployment)
+- Frontend: HTML5, CSS3, JavaScript
+- Design: Figma
+- Maps: Leaflet.js, Esri World Street Map
+- Deployment: GitHub Pages
 
 ## Running Locally
 1. Clone the repository:
